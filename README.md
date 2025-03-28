@@ -6,8 +6,10 @@ This is a simple **C++ Arithmetic Calculator** that takes two numbers as input a
 - Subtraction (`-`)
 - Multiplication (`*`)
 - Division (`/`)
+- Square('^')
 
 ## 🛠 Features
+✅ infinite operations
 ✅ Takes two numbers as input
 ✅ Performs all four arithmetic operations
 ✅ Checks for division by zero and handles errors properly
